@@ -1,0 +1,19 @@
+.percentView {
+    display: flex;
+    flex-direction: column;
+    border: 3px solid #9a9191;
+    border-radius: 5px;
+    padding: 0.5em;
+    margin: 1em;
+    min-width: 80px;
+}
+
+.percentBar {
+    height: 10px;
+    border: 4px solid #6c6868;
+    border-radius: 5px;
+}
+
+.percentBarprogress {
+    height: 100%;
+}
